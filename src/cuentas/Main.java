@@ -1,5 +1,11 @@
 package cuentas;
 
+/**
+ * Pagina principal de Cuentas.
+ * @author Adoney Tejera Santana
+ * @version 1.0
+ * @since 1.0
+ */
 
 import cuentas.CCuenta;
 
